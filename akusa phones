@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Akusa Phones</title>
+</head>
+<body>
+    
+<p>Aqui na Akusa Phones vôce encontra os melhores celulares com os melhores preços do mercado.
+</p>
+<div>
+<img id= "titulo1" src="banner.png" alt="alt">
+<H1>TODAS AS COMPRAS COM FRETE GRATIS</H1>
+<p>Samsung s23 ultra </p>
+<img src="s23preto.webp" alt="sansumg s23 ultra"> <img src="s23branco.webp" alt="">
+<h1>R$7.999,00</h1>
+</div>
+
+<div>
+<p>Iphone 15 pro max 15 512gb </p>
+<img src="download.jpeg" alt="iphone 15 pro"> <img src="shopping.webp" alt="">
+<h1>R$ 8.750.00</h1>
+</div>
+
+<div>
+<p>Apple Watch Series 9</p>
+<img id="apple watch" src="apple watch" alt="apple watch">
+<img src="download (1).jpeg" alt="apple watch braanco">
+<H1>R$ 4.999</H1>
+</div>
+
+
+
+</body>
+</html>
